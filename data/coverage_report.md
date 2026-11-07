@@ -1,16 +1,16 @@
 # Data Coverage Report
 
-Generated at: 2026-07-18T11:37:33.452209+00:00
+Generated at: 2026-11-07T00:38:29.141659+00:00
 
 ## Counts
 
 - sources: 23
-- source_checks_ok: 22
+- source_checks_ok: 8
 - corpus_chunks: 35
 - policies: 8
 - policy_citations: 17
 - sample_profiles: 2
-- policy_watch: 23
+- policy_watch: 34
 
 ## Remaining Gaps
 
@@ -23,3 +23,10 @@ Generated at: 2026-07-18T11:37:33.452209+00:00
 ## Citation Sources Not In Successful Crawl
 
 - https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-Dau-tu-2025-so-143-2025-QH15-681550.aspx
+- https://vanban.chinhphu.vn/default.aspx?docid=190283&pageid=27160
+- https://vanban.chinhphu.vn/default.aspx?docid=196965&pageid=27160
+- https://vanban.chinhphu.vn/default.aspx?docid=202651&pageid=27160
+- https://vanban.chinhphu.vn/default.aspx?docid=203941&pageid=27160
+- https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-210-2025-nd-cp-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-so-38-2018-nd-cp-ngay-11-thang-3-nam-2018-cua-chinh-phu-quy-dinh-chi-tiet-ve-dau-tu-cho-doanh-nghiep-nho-va-vua-khoi-nghiep-sang-tao--179899
+- https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-268-2025-nd-cp-quy-dinh-chi-tiet-va-huong-dan-mot-so-dieu-cua-luat-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-ve-doi-moi-sang-tao-khuyen-khich-hoat-dong-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-trong-doanh-nghiep-cong-nhan-trung-tam-doi-moi-sang-tao-ho-tro-khoi-nghiep-sang-tao-cong-nhan-ca-nhan-doanh-nghiep-khoi-nghiep-sang-tao-ha-tang-mang-luoi-va-he-sinh-thai-khoi-nghiep-sang-tao--183411
+- https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-38-2018-nd-cp-quy-dinh-chi-tiet-ve-dau-tu-cho-doanh-nghiep-nho-va-vua-khoi-nghiep-sang-tao--130717
